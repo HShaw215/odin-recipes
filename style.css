@@ -1,0 +1,19 @@
+#odin {
+    color:black;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: center;
+    background-color:goldenrod;
+}
+
+.link {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
